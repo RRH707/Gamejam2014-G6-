@@ -2,5 +2,6 @@
 class Game
 {
     public static bool shadowActive;
-    public static bool PlayerInLightAndShadowNotActive = false;
+    public static bool PlayerInLight = false;
+    public static bool ShadowSpawnd;
 }

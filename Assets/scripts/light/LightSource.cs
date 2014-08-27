@@ -3,12 +3,17 @@ using System.Collections;
 
 public class LightSource : MonoBehaviour {
 
+    public GameObject shadow;
+    public GameObject player;
     public bool draw;
     private float angleMultiplayer;
     public int castRes = 200;
     private Vector2[] hitPoints;
     public float maxDist = 4;
+    public LayerMask playerLayer;
+    public LayerMask shadowLayer;
     private LayerMask layer;
+
 
     void Start()
     {
@@ -23,11 +28,11 @@ public class LightSource : MonoBehaviour {
     {
         if (Game.shadowActive)
         {
-            layer = LayerMask.NameToLayer("Shadow");
+            layer = shadowLayer;
         }
         else
         {
-            layer = LayerMask.NameToLayer("Player");
+            layer = playerLayer;
         }
         int i;
         angleMultiplayer = castRes / 360.0f;
@@ -61,7 +66,13 @@ public class LightSource : MonoBehaviour {
                 }
                 else
                 {
-                    Game.PlayerInLightAndShadowNotActive = true;
+                    if (!Game.ShadowSpawnd)
+                    {
+                        Game.ShadowSpawnd = true;
+                        Game.PlayerInLight = true;
+                        shadow.transform.position = player.transform.position;
+                        shadow.GetComponentInChildren<SpriteRenderer>().enabled = true;
+                    }
                 }
                 break;
             }
