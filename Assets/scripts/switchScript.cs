@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class switchScript : MonoBehaviour {
+public class SwitchScript : MonoBehaviour {
 
 	public GameObject light;
 	public bool onPlayerContact;
@@ -9,7 +9,7 @@ public class switchScript : MonoBehaviour {
 
 	// Use this for initialization
 	void OnTriggerEnter2D(Collider2D player){
-		if (player.gameObject.name == "Player") {
+		if (player.gameObject.name == "Player" && Game.shadowActive) {
 			onPlayerContact = true;
 		}
 	}
