@@ -16,7 +16,12 @@ public class LightReceiver : MonoBehaviour {
         //Debug.Log("lightsInContact:" + lightsInContact + " totalLightPower:" + totalLightPower+"\n");
         if (lightsInContact == 0)
         {
-
+            if (Game.shadowActive)
+            {
+                Game.shadowActive = false;
+                Game.ShadowSpawnd = false;
+                gameObject.GetComponentInChildren<SpriteRenderer>().enabled = false;
+            }
         }
         lightsInContact = 0;
         totalLightPower = 0;
