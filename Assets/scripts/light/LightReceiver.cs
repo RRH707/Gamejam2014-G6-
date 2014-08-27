@@ -14,6 +14,10 @@ public class LightReceiver : MonoBehaviour {
 
     private void Update(){
         //Debug.Log("lightsInContact:" + lightsInContact + " totalLightPower:" + totalLightPower+"\n");
+        if (lightsInContact == 0)
+        {
+
+        }
         lightsInContact = 0;
         totalLightPower = 0;
     }

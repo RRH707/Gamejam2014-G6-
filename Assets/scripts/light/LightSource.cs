@@ -8,7 +8,6 @@ public class LightSource : MonoBehaviour {
     public int castRes = 200;
     private Vector2[] hitPoints;
     public float maxDist = 4;
-    [SerializeField]
     private LayerMask layer;
 
     void Start()
@@ -22,6 +21,14 @@ public class LightSource : MonoBehaviour {
 
     private void CheckHitShadow()
     {
+        if (Game.shadowActive)
+        {
+            layer = LayerMask.NameToLayer("Shadow");
+        }
+        else
+        {
+            layer = LayerMask.NameToLayer("Player");
+        }
         int i;
         angleMultiplayer = castRes / 360.0f;
         Vector3 center = transform.position;
@@ -41,14 +48,21 @@ public class LightSource : MonoBehaviour {
                 {
                     Debug.DrawLine(center, ray.point, Color.red);
                 }
-                hitPoints[i] = ray.point;
-                LightReceiver lightHit = ray.collider.gameObject.GetComponent<LightReceiver>();
-                float distPowerReceiver = (maxDist-Vector3.Distance(lightHit.transform.position, gameObject.transform.position));
-                if (distPowerReceiver < 0)
+                if (Game.shadowActive)
                 {
-                    distPowerReceiver = 0;
+                    hitPoints[i] = ray.point;
+                    LightReceiver lightHit = ray.collider.gameObject.GetComponent<LightReceiver>();
+                    float distPowerReceiver = (maxDist - Vector3.Distance(lightHit.transform.position, gameObject.transform.position));
+                    if (distPowerReceiver < 0)
+                    {
+                        distPowerReceiver = 0;
+                    }
+                    lightHit.LightHit(distPowerReceiver);
                 }
-                lightHit.LightHit(distPowerReceiver);
+                else
+                {
+                    Game.PlayerInLightAndShadowNotActive = true;
+                }
                 break;
             }
             else
