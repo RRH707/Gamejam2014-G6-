@@ -9,8 +9,9 @@ public class SwitchScript : MonoBehaviour {
 
 	// Use this for initialization
 	void OnTriggerEnter2D(Collider2D player){
-		if (player.gameObject.name == "Player" && Game.shadowActive) {
+		if (player.gameObject.name == "Player" && !Game.shadowActive) {
 			onPlayerContact = true;
+			Debug.Log ("hit");
 		}
 	}
 
