@@ -1,0 +1,1 @@
+﻿function Start () { var emitter:ParticleEmitter = transform.GetComponent("EllipsoidParticleEmitter"); emitter.Simulate(0.5); }

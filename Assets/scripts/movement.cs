@@ -8,11 +8,18 @@ public class movement : MonoBehaviour
     [SerializeField]
     private float speed = 4f;
 
+    private Animator animator;
     private shadowMovement shadowScript;
     private LightSource lightSourceScript;
+    private string animTrigWalk = "walk";
+    private string animTrigWalkStop = "stopWalk";
+    private float walkStartTime = 0.0f;
+    private const float walkStartActivateTime = 1.333f;
+    private bool walking = true;
 
     void Start()
     {
+        animator = gameObject.GetComponent<Animator>();
         shadowScript = shadow.GetComponent<shadowMovement>();
         lightSourceScript = shadow.GetComponent<LightSource>();
     }
@@ -23,11 +30,16 @@ public class movement : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.RightArrow)||Input.GetKey(KeyCode.D))
             {
-                transform.Translate(Vector2.right * speed * Time.deltaTime);
+                WalkAnimation(false);
             }
-            if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+            else if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
             {
-                transform.Translate(-Vector2.right * speed * Time.deltaTime);
+                WalkAnimation(true);
+            }
+            else if(walking)
+            {
+                walking = false;
+                animator.SetTrigger(animTrigWalkStop);
             }
         }
 		if (Input.GetKeyDown(KeyCode.K)) 
@@ -44,4 +56,20 @@ public class movement : MonoBehaviour
             }
 		}
 	}
+
+    void WalkAnimation(bool right)
+    {
+        walking = true;
+        animator.SetTrigger(animTrigWalk);
+        if (right)
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+            transform.Translate(-Vector2.right * speed * Time.deltaTime);
+        }
+        else
+        {
+            transform.Translate(Vector2.right * speed * Time.deltaTime);
+            transform.localScale = new Vector3(1, 1, 1);
+        }
+    }
 }

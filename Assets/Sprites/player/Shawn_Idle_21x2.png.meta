@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 48d38250d3af677438f80d10ee3bdd17
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shawn_Idle_21x2
+    21300002: Shawn_Idle_21x2_0
+    21300004: Shawn_Idle_21x2_1
+    21300006: Shawn_Idle_21x2_2
+    21300008: Shawn_Idle_21x2_3
+    21300010: Shawn_Idle_21x2_4
+    21300012: Shawn_Idle_21x2_5
+    21300014: Shawn_Idle_21x2_6
+    21300016: Shawn_Idle_21x2_7
+    21300018: Shawn_Idle_21x2_8
+    21300020: Shawn_Idle_21x2_9
+    21300022: Shawn_Idle_21x2_10
+    21300024: Shawn_Idle_21x2_11
+    21300026: Shawn_Idle_21x2_12
+    21300028: Shawn_Idle_21x2_13
+    21300030: Shawn_Idle_21x2_14
+    21300032: Shawn_Idle_21x2_15
+    21300034: Shawn_Idle_21x2_16
+    21300036: Shawn_Idle_21x2_17
+    21300038: Shawn_Idle_21x2_18
+    21300040: Shawn_Idle_21x2_19
+    21300042: Shawn_Idle_21x2_20
+    21300044: Shawn_Idle_21x2_21
+    21300046: Shawn_Idle_21x2_22
+    21300048: Shawn_Idle_21x2_23
+    21300050: Shawn_Idle_21x2_24
+    21300052: Shawn_Idle_21x2_25
+    21300054: Shawn_Idle_21x2_26
+    21300056: Shawn_Idle_21x2_27
+    21300058: Shawn_Idle_21x2_28
+    21300060: Shawn_Idle_21x2_29
+    21300062: Shawn_Idle_21x2_30
+    21300064: Shawn_Idle_21x2_31
+    21300066: Shawn_Idle_21x2_32
+    21300068: Shawn_Idle_21x2_33
+    21300070: Shawn_Idle_21x2_34
+    21300072: Shawn_Idle_21x2_35
+    21300074: Shawn_Idle_21x2_36
+    21300076: Shawn_Idle_21x2_37
+    21300078: Shawn_Idle_21x2_38
+    21300080: Shawn_Idle_21x2_39
+    21300082: Shawn_Idle_21x2_40
+    21300084: Shawn_Idle_21x2_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shawn_Idle_21x2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_10
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_11
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_12
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_13
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_14
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_15
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_16
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_17
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_18
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_19
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_20
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 337
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_27
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_28
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_29
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_30
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_31
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_32
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_33
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_34
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_35
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_36
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_37
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_38
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_39
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_40
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shawn_Idle_21x2_41
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
