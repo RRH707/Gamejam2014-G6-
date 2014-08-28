@@ -22,7 +22,7 @@ public class Doors : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update(){
-		if (onShadowContact == true && Input.GetKeyDown("h")){
+		if (onShadowContact == true && Input.GetKeyDown("s")){
 			if(door.activeSelf){
 				door.SetActive(false);
 				doorOpen = true;

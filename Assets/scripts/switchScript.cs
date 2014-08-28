@@ -21,7 +21,7 @@ public class SwitchScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update(){
-		if (onPlayerContact == true && Input.GetKeyDown("j")){
+		if (onPlayerContact == true && Input.GetKeyDown("a")){
 			/*if(light.activeSelf){
 				light.SetActive(false);
 			}
