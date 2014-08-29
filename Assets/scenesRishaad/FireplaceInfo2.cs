@@ -21,7 +21,7 @@ public class FireplaceInfo2: MonoBehaviour {
 		
 		if (onPlayerContact) 
 		{
-			GUI.TextField(new Rect(-1.718464f,-0.9359665f,2000,2000),"Shawn's shadow cannot interact with objects in the physical world if the light is too dim.");
+			GUI.TextField(new Rect(-1.718464f,-0.9359665f,4500,50),"Shawn's shadow cannot interact with objects in the physical world if the light is too dim.");
 		}
 	} 
 	

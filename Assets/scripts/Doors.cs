@@ -21,7 +21,7 @@ public class Doors : MonoBehaviour {
 	{
 		if (onShadowContact) 
 		 {
-			GUI.TextArea(new Rect(-1.718464f,-0.9359665f,2000,2000),"Press S to open the door for your body.");
+			GUI.TextArea(new Rect(-1.718464f,-0.9359665f,4500,50),"Press S to open the door for your body.");
 		} 
 
 	} 
