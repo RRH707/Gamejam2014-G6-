@@ -1,0 +1,2237 @@
+fileFormatVersion: 2
+guid: a7a5523db1cabe44fb21d6ac36828439
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shadow_idle_16x13
+    21300002: shadow_idle_16x13_0
+    21300004: shadow_idle_16x13_1
+    21300006: shadow_idle_16x13_2
+    21300008: shadow_idle_16x13_3
+    21300010: shadow_idle_16x13_4
+    21300012: shadow_idle_16x13_5
+    21300014: shadow_idle_16x13_6
+    21300016: shadow_idle_16x13_7
+    21300018: shadow_idle_16x13_8
+    21300020: shadow_idle_16x13_9
+    21300022: shadow_idle_16x13_10
+    21300024: shadow_idle_16x13_11
+    21300026: shadow_idle_16x13_12
+    21300028: shadow_idle_16x13_13
+    21300030: shadow_idle_16x13_14
+    21300032: shadow_idle_16x13_15
+    21300034: shadow_idle_16x13_16
+    21300036: shadow_idle_16x13_17
+    21300038: shadow_idle_16x13_18
+    21300040: shadow_idle_16x13_19
+    21300042: shadow_idle_16x13_20
+    21300044: shadow_idle_16x13_21
+    21300046: shadow_idle_16x13_22
+    21300048: shadow_idle_16x13_23
+    21300050: shadow_idle_16x13_24
+    21300052: shadow_idle_16x13_25
+    21300054: shadow_idle_16x13_26
+    21300056: shadow_idle_16x13_27
+    21300058: shadow_idle_16x13_28
+    21300060: shadow_idle_16x13_29
+    21300062: shadow_idle_16x13_30
+    21300064: shadow_idle_16x13_31
+    21300066: shadow_idle_16x13_32
+    21300068: shadow_idle_16x13_33
+    21300070: shadow_idle_16x13_34
+    21300072: shadow_idle_16x13_35
+    21300074: shadow_idle_16x13_36
+    21300076: shadow_idle_16x13_37
+    21300078: shadow_idle_16x13_38
+    21300080: shadow_idle_16x13_39
+    21300082: shadow_idle_16x13_40
+    21300084: shadow_idle_16x13_41
+    21300086: shadow_idle_16x13_42
+    21300088: shadow_idle_16x13_43
+    21300090: shadow_idle_16x13_44
+    21300092: shadow_idle_16x13_45
+    21300094: shadow_idle_16x13_46
+    21300096: shadow_idle_16x13_47
+    21300098: shadow_idle_16x13_48
+    21300100: shadow_idle_16x13_49
+    21300102: shadow_idle_16x13_50
+    21300104: shadow_idle_16x13_51
+    21300106: shadow_idle_16x13_52
+    21300108: shadow_idle_16x13_53
+    21300110: shadow_idle_16x13_54
+    21300112: shadow_idle_16x13_55
+    21300114: shadow_idle_16x13_56
+    21300116: shadow_idle_16x13_57
+    21300118: shadow_idle_16x13_58
+    21300120: shadow_idle_16x13_59
+    21300122: shadow_idle_16x13_60
+    21300124: shadow_idle_16x13_61
+    21300126: shadow_idle_16x13_62
+    21300128: shadow_idle_16x13_63
+    21300130: shadow_idle_16x13_64
+    21300132: shadow_idle_16x13_65
+    21300134: shadow_idle_16x13_66
+    21300136: shadow_idle_16x13_67
+    21300138: shadow_idle_16x13_68
+    21300140: shadow_idle_16x13_69
+    21300142: shadow_idle_16x13_70
+    21300144: shadow_idle_16x13_71
+    21300146: shadow_idle_16x13_72
+    21300148: shadow_idle_16x13_73
+    21300150: shadow_idle_16x13_74
+    21300152: shadow_idle_16x13_75
+    21300154: shadow_idle_16x13_76
+    21300156: shadow_idle_16x13_77
+    21300158: shadow_idle_16x13_78
+    21300160: shadow_idle_16x13_79
+    21300162: shadow_idle_16x13_80
+    21300164: shadow_idle_16x13_81
+    21300166: shadow_idle_16x13_82
+    21300168: shadow_idle_16x13_83
+    21300170: shadow_idle_16x13_84
+    21300172: shadow_idle_16x13_85
+    21300174: shadow_idle_16x13_86
+    21300176: shadow_idle_16x13_87
+    21300178: shadow_idle_16x13_88
+    21300180: shadow_idle_16x13_89
+    21300182: shadow_idle_16x13_90
+    21300184: shadow_idle_16x13_91
+    21300186: shadow_idle_16x13_92
+    21300188: shadow_idle_16x13_93
+    21300190: shadow_idle_16x13_94
+    21300192: shadow_idle_16x13_95
+    21300194: shadow_idle_16x13_96
+    21300196: shadow_idle_16x13_97
+    21300198: shadow_idle_16x13_98
+    21300200: shadow_idle_16x13_99
+    21300202: shadow_idle_16x13_100
+    21300204: shadow_idle_16x13_101
+    21300206: shadow_idle_16x13_102
+    21300208: shadow_idle_16x13_103
+    21300210: shadow_idle_16x13_104
+    21300212: shadow_idle_16x13_105
+    21300214: shadow_idle_16x13_106
+    21300216: shadow_idle_16x13_107
+    21300218: shadow_idle_16x13_108
+    21300220: shadow_idle_16x13_109
+    21300222: shadow_idle_16x13_110
+    21300224: shadow_idle_16x13_111
+    21300226: shadow_idle_16x13_112
+    21300228: shadow_idle_16x13_113
+    21300230: shadow_idle_16x13_114
+    21300232: shadow_idle_16x13_115
+    21300234: shadow_idle_16x13_116
+    21300236: shadow_idle_16x13_117
+    21300238: shadow_idle_16x13_118
+    21300240: shadow_idle_16x13_119
+    21300242: shadow_idle_16x13_120
+    21300244: shadow_idle_16x13_121
+    21300246: shadow_idle_16x13_122
+    21300248: shadow_idle_16x13_123
+    21300250: shadow_idle_16x13_124
+    21300252: shadow_idle_16x13_125
+    21300254: shadow_idle_16x13_126
+    21300256: shadow_idle_16x13_127
+    21300258: shadow_idle_16x13_128
+    21300260: shadow_idle_16x13_129
+    21300262: shadow_idle_16x13_130
+    21300264: shadow_idle_16x13_131
+    21300266: shadow_idle_16x13_132
+    21300268: shadow_idle_16x13_133
+    21300270: shadow_idle_16x13_134
+    21300272: shadow_idle_16x13_135
+    21300274: shadow_idle_16x13_136
+    21300276: shadow_idle_16x13_137
+    21300278: shadow_idle_16x13_138
+    21300280: shadow_idle_16x13_139
+    21300282: shadow_idle_16x13_140
+    21300284: shadow_idle_16x13_141
+    21300286: shadow_idle_16x13_142
+    21300288: shadow_idle_16x13_143
+    21300290: shadow_idle_16x13_144
+    21300292: shadow_idle_16x13_145
+    21300294: shadow_idle_16x13_146
+    21300296: shadow_idle_16x13_147
+    21300298: shadow_idle_16x13_148
+    21300300: shadow_idle_16x13_149
+    21300302: shadow_idle_16x13_150
+    21300304: shadow_idle_16x13_151
+    21300306: shadow_idle_16x13_152
+    21300308: shadow_idle_16x13_153
+    21300310: shadow_idle_16x13_154
+    21300312: shadow_idle_16x13_155
+    21300314: shadow_idle_16x13_156
+    21300316: shadow_idle_16x13_157
+    21300318: shadow_idle_16x13_158
+    21300320: shadow_idle_16x13_159
+    21300322: shadow_idle_16x13_160
+    21300324: shadow_idle_16x13_161
+    21300326: shadow_idle_16x13_162
+    21300328: shadow_idle_16x13_163
+    21300330: shadow_idle_16x13_164
+    21300332: shadow_idle_16x13_165
+    21300334: shadow_idle_16x13_166
+    21300336: shadow_idle_16x13_167
+    21300338: shadow_idle_16x13_168
+    21300340: shadow_idle_16x13_169
+    21300342: shadow_idle_16x13_170
+    21300344: shadow_idle_16x13_171
+    21300346: shadow_idle_16x13_172
+    21300348: shadow_idle_16x13_173
+    21300350: shadow_idle_16x13_174
+    21300352: shadow_idle_16x13_175
+    21300354: shadow_idle_16x13_176
+    21300356: shadow_idle_16x13_177
+    21300358: shadow_idle_16x13_178
+    21300360: shadow_idle_16x13_179
+    21300362: shadow_idle_16x13_180
+    21300364: shadow_idle_16x13_181
+    21300366: shadow_idle_16x13_182
+    21300368: shadow_idle_16x13_183
+    21300370: shadow_idle_16x13_184
+    21300372: shadow_idle_16x13_185
+    21300374: shadow_idle_16x13_186
+    21300376: shadow_idle_16x13_187
+    21300378: shadow_idle_16x13_188
+    21300380: shadow_idle_16x13_189
+    21300382: shadow_idle_16x13_190
+    21300384: shadow_idle_16x13_191
+    21300386: shadow_idle_16x13_192
+    21300388: shadow_idle_16x13_193
+    21300390: shadow_idle_16x13_194
+    21300392: shadow_idle_16x13_195
+    21300394: shadow_idle_16x13_196
+    21300396: shadow_idle_16x13_197
+    21300398: shadow_idle_16x13_198
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shadow_idle_16x13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4464
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4092
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3720
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3348
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2976
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2604
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2232
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_127
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1860
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_140
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1488
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_155
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_157
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_158
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_159
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1116
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_164
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_166
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_168
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_169
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_170
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_171
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_172
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_173
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_174
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_175
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 744
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_180
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_182
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_183
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_184
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_185
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_186
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_187
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_188
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_189
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_190
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_191
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 372
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_195
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_196
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_197
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow_idle_16x13_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
