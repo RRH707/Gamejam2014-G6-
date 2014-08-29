@@ -12,21 +12,74 @@ public class shadowMovement : MonoBehaviour {
 	private bool facingRight = true;
 	private Animator anim;
 
+    private Animator animator;
+    private string animTrigWalk = "walk";
+    private string animTrigWalkStop = "stopWalk";
+
+    private int keyDownCount = 0;
+    private bool startWalking = false;
+    private bool stopWalking = false;
+    private bool walking = false;
+
+    void Start()
+    {
+        animator = gameObject.GetComponent<Animator>();
+    }
 
 	void Update () 
 	{
+        startWalking = false;
+        stopWalking = false;
+        if (Input.GetKeyDown(KeyCode.RightArrow) && Game.shadowActive)
+        {
+            startWalking = true;
+            keyDownCount += 1;
+        }
+        else if (Input.GetKeyDown(KeyCode.LeftArrow) && Game.shadowActive)
+        {
+            startWalking = true;
+            keyDownCount += 1;
+        }
+        if (Input.GetKeyUp(KeyCode.RightArrow) && Game.shadowActive)
+        {
+            keyDownCount -= 1;
+            stopWalking = true;
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftArrow) && Game.shadowActive)
+        {
+            keyDownCount -= 1;
+            stopWalking = true;
+        }
+        if (!Game.shadowActive)
+        {
+            keyDownCount = 0;
+            if (walking)
+            {
+                stopWalking = true;
+            }
+        }
+        if (Input.GetKey(KeyCode.RightArrow) && Game.shadowActive)
+        {
+            transform.localScale = new Vector3(1, 1, 1);
+            transform.Translate(Vector2.right * speed * Time.deltaTime);
+        }
+        else if (Input.GetKey(KeyCode.LeftArrow) && Game.shadowActive)
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+            transform.Translate(-Vector2.right * speed * Time.deltaTime);
+        }
+        if (keyDownCount == 0 && stopWalking)
+        {
+            animator.SetTrigger(animTrigWalkStop);
+            walking = false;
+        }
+        else if (startWalking && !walking)
+        {
+            walking = true;
+            animator.SetTrigger(animTrigWalk);
+        }
         if (Game.shadowActive)
         {
-            if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
-            {
-                transform.Translate(Vector2.right * speed * Time.deltaTime);
-            }
-
-            if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
-            {
-                transform.Translate(-Vector2.right * speed * Time.deltaTime);
-            }
-
 			if(onGround == true)
 			{
 

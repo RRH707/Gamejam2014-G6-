@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 9642a9b0bd016c24ebc96feab480ed36
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shadow_Walk Animation_8x4
+    21300002: Shadow_Walk Animation_8x4_0
+    21300004: Shadow_Walk Animation_8x4_1
+    21300006: Shadow_Walk Animation_8x4_2
+    21300008: Shadow_Walk Animation_8x4_3
+    21300010: Shadow_Walk Animation_8x4_4
+    21300012: Shadow_Walk Animation_8x4_5
+    21300014: Shadow_Walk Animation_8x4_6
+    21300016: Shadow_Walk Animation_8x4_7
+    21300018: Shadow_Walk Animation_8x4_8
+    21300020: Shadow_Walk Animation_8x4_9
+    21300022: Shadow_Walk Animation_8x4_10
+    21300024: Shadow_Walk Animation_8x4_11
+    21300026: Shadow_Walk Animation_8x4_12
+    21300028: Shadow_Walk Animation_8x4_13
+    21300030: Shadow_Walk Animation_8x4_14
+    21300032: Shadow_Walk Animation_8x4_15
+    21300034: Shadow_Walk Animation_8x4_16
+    21300036: Shadow_Walk Animation_8x4_17
+    21300038: Shadow_Walk Animation_8x4_18
+    21300040: Shadow_Walk Animation_8x4_19
+    21300042: Shadow_Walk Animation_8x4_20
+    21300044: Shadow_Walk Animation_8x4_21
+    21300046: Shadow_Walk Animation_8x4_22
+    21300048: Shadow_Walk Animation_8x4_23
+    21300050: Shadow_Walk Animation_8x4_24
+    21300052: Shadow_Walk Animation_8x4_25
+    21300054: Shadow_Walk Animation_8x4_26
+    21300056: Shadow_Walk Animation_8x4_27
+    21300058: Shadow_Walk Animation_8x4_28
+    21300060: Shadow_Walk Animation_8x4_29
+    21300062: Shadow_Walk Animation_8x4_30
+    21300064: Shadow_Walk Animation_8x4_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shadow_Walk Animation_8x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_3
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_5
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_6
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_7
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1074
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_12
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_13
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_14
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_15
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 716
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_19
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_20
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_21
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_22
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_23
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 358
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_27
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_28
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_29
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_30
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow_Walk Animation_8x4_31
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 0
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
