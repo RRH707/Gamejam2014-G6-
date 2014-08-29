@@ -7,6 +7,7 @@ public class Doors : MonoBehaviour {
 
 	public bool onShadowContact;
 	public bool doorOpen;
+	public GUISkin skin;
 	
 	
 	// Use this for initialization
@@ -18,7 +19,8 @@ public class Doors : MonoBehaviour {
 	}
 
 	void OnGUI()
-	{
+	{	
+		GUI.skin = skin;
 		if (onShadowContact) 
 		 {
 			GUI.TextArea(new Rect(-1.718464f,-0.9359665f,4500,50),"Press S to open the door for your body.");

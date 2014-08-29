@@ -5,6 +5,7 @@ public class SwitchScript: MonoBehaviour {
 	
 	public GameObject light;
 	public bool onPlayerContact;
+	public GUISkin skin;
 	
 	
 	// Use this for initialization
@@ -18,7 +19,7 @@ public class SwitchScript: MonoBehaviour {
 	
 	void OnGUI()
 	{
-		
+		GUI.skin = skin;
 		if (onPlayerContact) 
 		{
 			GUI.TextField(new Rect(-1.718464f,-0.9359665f,3000,50),"Press S to turn on the light for your shadow");

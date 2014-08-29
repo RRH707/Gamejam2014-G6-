@@ -496,6 +496,7 @@ MonoBehaviour:
   door: {fileID: 882605132}
   onShadowContact: 0
   doorOpen: 0
+  skin: {fileID: 11400000, guid: 28fee8cffa68e9046a1a2d6047b3b37c, type: 2}
 --- !u!1 &57177152
 GameObject:
   m_ObjectHideFlags: 0
@@ -1067,7 +1068,7 @@ GameObject:
   - 212: {fileID: 331443368}
   - 114: {fileID: 331443367}
   m_Layer: 0
-  m_Name: knop
+  m_Name: WaterFall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1098,6 +1099,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   light: {fileID: 1982908408}
   onPlayerContact: 0
+  skin: {fileID: 11400000, guid: 28fee8cffa68e9046a1a2d6047b3b37c, type: 2}
 --- !u!212 &331443368
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2574,6 +2576,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   onShadowContact: 0
+  skin: {fileID: 11400000, guid: 28fee8cffa68e9046a1a2d6047b3b37c, type: 2}
 --- !u!212 &1320898281
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2621,6 +2624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   onPlayerContact: 0
+  skin: {fileID: 11400000, guid: 28fee8cffa68e9046a1a2d6047b3b37c, type: 2}
 --- !u!1 &1369047973
 GameObject:
   m_ObjectHideFlags: 0
@@ -3046,6 +3050,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 36ee36b13fe75b14f82552842442e4dd, type: 2}
+      propertyPath: skin
+      value: 
+      objectReference: {fileID: 11400000, guid: 28fee8cffa68e9046a1a2d6047b3b37c,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 36ee36b13fe75b14f82552842442e4dd, type: 2}
   m_RootGameObject: {fileID: 41513845}
