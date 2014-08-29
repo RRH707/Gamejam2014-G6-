@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SwitchScript : MonoBehaviour {
+public class SwitchScript: MonoBehaviour {
 	
 	public GameObject light;
 	public bool onPlayerContact;
@@ -11,28 +11,31 @@ public class SwitchScript : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D player){
 		if (player.gameObject.name == "Player" && !Game.shadowActive) {
 			onPlayerContact = true;
-			Debug.Log ("hit");
+
 		}
 	}
-
-
+	
+	
 	void OnGUI()
 	{
+		
 		if (onPlayerContact) 
 		{
-			GUI.TextArea (new Rect(-6.720293f,-0.9188955f,2000,2000),"Press S to turn on the light");
+			GUI.TextArea (new Rect(-1.718464f,-0.9359665f,2000,2000),"Press S to turn on the light for your shadow");
 		}
-	}
-
-
+	} 
+	
+	
 	void OnTriggerExit2D(){
 		onPlayerContact = false;
+
 	}
-
-
+	
+	
 	
 	// Update is called once per frame
 	void Update(){
+	
 		if (onPlayerContact == true && Input.GetKeyDown("s")){
 			/*if(light.activeSelf){
 				light.SetActive(false);
