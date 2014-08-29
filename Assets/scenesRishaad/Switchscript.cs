@@ -14,10 +14,22 @@ public class SwitchScript : MonoBehaviour {
 			Debug.Log ("hit");
 		}
 	}
-	
+
+
+	void OnGUI()
+	{
+		if (onPlayerContact) 
+		{
+			GUI.TextArea (new Rect(-6.720293f,-0.9188955f,2000,2000),"Press S to turn on the light");
+		}
+	}
+
+
 	void OnTriggerExit2D(){
 		onPlayerContact = false;
 	}
+
+
 	
 	// Update is called once per frame
 	void Update(){
