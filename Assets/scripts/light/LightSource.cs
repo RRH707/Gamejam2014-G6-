@@ -13,6 +13,8 @@ public class LightSource : MonoBehaviour {
     public LayerMask playerLayer;
     public LayerMask shadowLayer;
     private LayerMask layer;
+	public bool onPlayerContact;
+	public bool onShadowContact;
 
 
     void Start()
@@ -24,7 +26,7 @@ public class LightSource : MonoBehaviour {
 
 	}
 
-    private void CheckHitShadow()
+	private void CheckHitShadow()
     {
         if (Game.shadowActive)
         {
