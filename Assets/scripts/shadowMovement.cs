@@ -47,7 +47,7 @@ public class shadowMovement : MonoBehaviour {
 
 		void OnCollisionEnter2D (Collision2D hit)
 		{
-		    Debug.Log(0);
+		   
 			if(hit.transform.tag == "Platform")
 			{
 				onGround = true;

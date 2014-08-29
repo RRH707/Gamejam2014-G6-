@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Switchscript : MonoBehaviour {
-
+public class SwitchScript : MonoBehaviour {
+	
 	public GameObject light;
 	public bool onPlayerContact;
-
-
+	
+	
 	// Use this for initialization
 	void OnTriggerEnter2D(Collider2D player){
 		if (player.gameObject.name == "Player" && !Game.shadowActive) {
@@ -14,10 +14,10 @@ public class Switchscript : MonoBehaviour {
 			Debug.Log ("hit");
 		}
 	}
-
+	
 	void OnTriggerExit2D(){
-			onPlayerContact = false;
-		}
+		onPlayerContact = false;
+	}
 	
 	// Update is called once per frame
 	void Update(){
