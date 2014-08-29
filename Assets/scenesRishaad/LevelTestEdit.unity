@@ -927,7 +927,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 8f428801446983f4590d79db198aa6bd, type: 2}
       propertyPath: maxDist
-      value: 6
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8f428801446983f4590d79db198aa6bd, type: 2}
@@ -966,7 +966,7 @@ MonoBehaviour:
   player: {fileID: 87221328}
   draw: 1
   castRes: 200
-  maxDist: 8
+  maxDist: 6
   playerLayer:
     serializedVersion: 2
     m_Bits: 256
@@ -1042,7 +1042,7 @@ Prefab:
       objectReference: {fileID: 432431316}
     - target: {fileID: 11400000, guid: 8f428801446983f4590d79db198aa6bd, type: 2}
       propertyPath: maxDist
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8f428801446983f4590d79db198aa6bd, type: 2}
       propertyPath: m_RootOrder
@@ -2236,7 +2236,7 @@ MonoBehaviour:
   player: {fileID: 87221328}
   draw: 1
   castRes: 200
-  maxDist: 6
+  maxDist: 8
   playerLayer:
     serializedVersion: 2
     m_Bits: 256

@@ -21,7 +21,7 @@ public class SwitchScript: MonoBehaviour {
 		
 		if (onPlayerContact) 
 		{
-			GUI.TextArea (new Rect(-1.718464f,-0.9359665f,2000,2000),"Press S to turn on the light for your shadow");
+			GUI.TextArea(new Rect(-1.718464f,-0.9359665f,2000,2000),"Press S to turn on the light for your shadow");
 		}
 	} 
 	
